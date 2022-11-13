@@ -6,7 +6,7 @@
 <!-- Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdncode&label=Profile%20views&color=0e75b6&style=flat" alt="kdncode" /> </p>
 
-![Snake animation](https://github.com/kdncode/kdncode/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kdncode/kdncode/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdncode" alt="kdncode" /></a> </p>
