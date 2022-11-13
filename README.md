@@ -1,16 +1,21 @@
-<h1 align="center">👋 Hi, I’m a software engineer 👨🏻‍💻</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
+<h1 align="center">👋 I’m a software engineer 👨🏻‍💻</h1>
 
 <!-- Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdncode&label=Profile%20views&color=0e75b6&style=flat" alt="kdncode" /> </p>
+
+![Snake animation](https://github.com/kdncode/kdncode/blob/main/github-contribution-grid-snake.svg)
 
 <!-- Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdncode" alt="kdncode" /></a> </p>
 -->
 
-<!-- Follow -->
-<p align="left"> <a href="https://twitter.com/code" target="blank"><img src="https://img.shields.io/twitter/follow/code?logo=twitter&style=for-the-badge" alt="code" /></a> </p>
-
 <!-- Social Media -->
+<!-- Follow 
+<p align="left"> <a href="https://twitter.com/code" target="blank"><img src="https://img.shields.io/twitter/follow/code?logo=twitter&style=for-the-badge" alt="code" /></a> </p>
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="code" height="30" width="40" /></a>
@@ -28,13 +33,21 @@
 -->
 
 <!-- Github tats 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdncode&show_icons=true&locale=en" alt="kdncode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdncode&theme=noctis_minimus&show_icons=true&locale=en" alt="kdncode" /></p>
 -->
 
 <!-- Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdncode&" alt="kdncode" /></p>
+<a href="https://github.com/kdncode">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdncode&theme=noctis_minimus&" alt="kdncode" /></p>
+  <!-- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdncode&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdncode&theme=noctis_minimus&layout=compact" />
+  -->
+</a>
 
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!---
 kdncode/kdncode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
